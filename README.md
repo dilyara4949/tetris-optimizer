@@ -5,10 +5,10 @@
 
 ## The program must :
 
-* Compile successfully\
-* Assemble all of the tetrominoes in order to create the smallest square possible.\
-* Identify each tetromino in the solution by printing them with uppercase latin letters (A for the first one, B for the second, etc)\
-* Expect at least one tetromino in the text file\
+* Compile successfully
+* Assemble all of the tetrominoes in order to create the smallest square possible.
+* Identify each tetromino in the solution by printing them with uppercase latin letters (A for the first one, B for the second, etc)
+* Expect at least one tetromino in the text file
 * In case of bad format on the tetrominoes or bad file format it should print ERROR
 
 
